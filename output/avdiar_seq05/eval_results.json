@@ -1,0 +1,18 @@
+{
+  "sequence": "Seq05-2P-S1M0",
+  "pyannote_speakers": 3,
+  "gt_speakers": 2,
+  "pyannote_segments": 23,
+  "gt_segments": 20,
+  "diarization_time_s": 25.4,
+  "face_centroids": 2,
+  "bindings": 46,
+  "binding_matrix": {
+    "SPEAKER_01_face1": 12737,
+    "SPEAKER_01_face2": 12737,
+    "SPEAKER_02_face1": 16586,
+    "SPEAKER_02_face2": 16586,
+    "SPEAKER_00_face1": 7438,
+    "SPEAKER_00_face2": 7438
+  }
+}

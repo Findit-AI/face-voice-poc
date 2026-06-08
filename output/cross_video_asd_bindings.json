@@ -1,0 +1,22 @@
+{
+  "plane": {
+    "bindings": {
+      "SPEAKER_01": {
+        "cluster": 1,
+        "asd_score": 1.317
+      }
+    },
+    "asd_time_s": 194.0,
+    "num_evidence": 13
+  },
+  "car": {
+    "bindings": {
+      "SPEAKER_00": {
+        "cluster": 0,
+        "asd_score": 0.215
+      }
+    },
+    "asd_time_s": 82.6,
+    "num_evidence": 1
+  }
+}
