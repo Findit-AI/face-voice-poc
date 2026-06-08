@@ -1,0 +1,87 @@
+[
+  {
+    "metadataOutputVersion" : "3.0",
+    "shortDescription" : "OpenVoice V2 Speaker Encoder: extracts 256-dim speaker embedding from spectrogram.",
+    "outputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Float16",
+        "formattedType" : "MultiArray (Float16 1 × 256 × 1)",
+        "shortDescription" : "",
+        "shape" : "[1, 256, 1]",
+        "name" : "speaker_embedding",
+        "type" : "MultiArray"
+      }
+    ],
+    "storagePrecision" : "Float16",
+    "modelParameters" : [
+
+    ],
+    "author" : "CoreML-Models",
+    "specificationVersion" : 7,
+    "license" : "MIT",
+    "mlProgramOperationTypeHistogram" : {
+      "Transpose" : 2,
+      "Fill" : 1,
+      "Squeeze" : 3,
+      "Ios16.gather" : 2,
+      "Ios16.linear" : 7,
+      "Ios16.add" : 5,
+      "Concat" : 2,
+      "Ios16.sigmoid" : 2,
+      "Shape" : 1,
+      "ExpandDims" : 2,
+      "WhileLoop" : 1,
+      "Ios16.sub" : 1,
+      "Ios16.cast" : 4,
+      "Ios16.less" : 1,
+      "Ios16.conv" : 6,
+      "Ios16.relu" : 6,
+      "Ios16.layerNorm" : 1,
+      "SliceByIndex" : 3,
+      "Ios16.reshape" : 2,
+      "Ios16.tanh" : 1,
+      "Ios16.scatter" : 1,
+      "Ios16.mul" : 3
+    },
+    "computePrecision" : "Mixed (Float16, Float32, Int32)",
+    "stateSchema" : [
+
+    ],
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "13.0",
+      "tvOS" : "16.0",
+      "visionOS" : "1.0",
+      "watchOS" : "9.0",
+      "iOS" : "16.0",
+      "macCatalyst" : "16.0"
+    },
+    "modelType" : {
+      "name" : "MLModelType_mlProgram"
+    },
+    "inputSchema" : [
+      {
+        "dataType" : "Float16",
+        "hasShapeFlexibility" : "1",
+        "isOptional" : "0",
+        "shapeFlexibility" : "1 × 10...1000 × 513",
+        "shapeRange" : "[[1, 1], [10, 1000], [513, 513]]",
+        "formattedType" : "MultiArray (Float16 1 × 100 × 513)",
+        "type" : "MultiArray",
+        "shape" : "[1, 100, 513]",
+        "name" : "spectrogram",
+        "shortDescription" : ""
+      }
+    ],
+    "userDefinedMetadata" : {
+      "com.github.apple.coremltools.conversion_date" : "2026-04-03",
+      "com.github.apple.coremltools.source" : "torch==2.11.0",
+      "com.github.apple.coremltools.version" : "9.0",
+      "com.github.apple.coremltools.source_dialect" : "TorchScript"
+    },
+    "generatedClassName" : "OpenVoice_SpeakerEncoder",
+    "method" : "predict"
+  }
+]

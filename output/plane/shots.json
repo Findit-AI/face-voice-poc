@@ -1,0 +1,2690 @@
+[
+  {
+    "shot_id": 0,
+    "start_frame": 0,
+    "start_time": 0.0,
+    "end_frame": 258,
+    "end_time": 8.609
+  },
+  {
+    "shot_id": 1,
+    "start_frame": 258,
+    "start_time": 8.609,
+    "end_frame": 293,
+    "end_time": 9.776
+  },
+  {
+    "shot_id": 2,
+    "start_frame": 293,
+    "start_time": 9.776,
+    "end_frame": 313,
+    "end_time": 10.444
+  },
+  {
+    "shot_id": 3,
+    "start_frame": 313,
+    "start_time": 10.444,
+    "end_frame": 348,
+    "end_time": 11.612
+  },
+  {
+    "shot_id": 4,
+    "start_frame": 348,
+    "start_time": 11.612,
+    "end_frame": 378,
+    "end_time": 12.613
+  },
+  {
+    "shot_id": 5,
+    "start_frame": 378,
+    "start_time": 12.613,
+    "end_frame": 406,
+    "end_time": 13.547
+  },
+  {
+    "shot_id": 6,
+    "start_frame": 406,
+    "start_time": 13.547,
+    "end_frame": 549,
+    "end_time": 18.318
+  },
+  {
+    "shot_id": 7,
+    "start_frame": 549,
+    "start_time": 18.318,
+    "end_frame": 619,
+    "end_time": 20.654
+  },
+  {
+    "shot_id": 8,
+    "start_frame": 619,
+    "start_time": 20.654,
+    "end_frame": 648,
+    "end_time": 21.622
+  },
+  {
+    "shot_id": 9,
+    "start_frame": 648,
+    "start_time": 21.622,
+    "end_frame": 745,
+    "end_time": 24.858
+  },
+  {
+    "shot_id": 10,
+    "start_frame": 745,
+    "start_time": 24.858,
+    "end_frame": 780,
+    "end_time": 26.026
+  },
+  {
+    "shot_id": 11,
+    "start_frame": 780,
+    "start_time": 26.026,
+    "end_frame": 810,
+    "end_time": 27.027
+  },
+  {
+    "shot_id": 12,
+    "start_frame": 810,
+    "start_time": 27.027,
+    "end_frame": 842,
+    "end_time": 28.095
+  },
+  {
+    "shot_id": 13,
+    "start_frame": 842,
+    "start_time": 28.095,
+    "end_frame": 906,
+    "end_time": 30.23
+  },
+  {
+    "shot_id": 14,
+    "start_frame": 906,
+    "start_time": 30.23,
+    "end_frame": 954,
+    "end_time": 31.832
+  },
+  {
+    "shot_id": 15,
+    "start_frame": 954,
+    "start_time": 31.832,
+    "end_frame": 993,
+    "end_time": 33.133
+  },
+  {
+    "shot_id": 16,
+    "start_frame": 993,
+    "start_time": 33.133,
+    "end_frame": 1077,
+    "end_time": 35.936
+  },
+  {
+    "shot_id": 17,
+    "start_frame": 1077,
+    "start_time": 35.936,
+    "end_frame": 1169,
+    "end_time": 39.006
+  },
+  {
+    "shot_id": 18,
+    "start_frame": 1169,
+    "start_time": 39.006,
+    "end_frame": 1227,
+    "end_time": 40.941
+  },
+  {
+    "shot_id": 19,
+    "start_frame": 1227,
+    "start_time": 40.941,
+    "end_frame": 1266,
+    "end_time": 42.242
+  },
+  {
+    "shot_id": 20,
+    "start_frame": 1266,
+    "start_time": 42.242,
+    "end_frame": 1308,
+    "end_time": 43.644
+  },
+  {
+    "shot_id": 21,
+    "start_frame": 1308,
+    "start_time": 43.644,
+    "end_frame": 1374,
+    "end_time": 45.846
+  },
+  {
+    "shot_id": 22,
+    "start_frame": 1374,
+    "start_time": 45.846,
+    "end_frame": 1405,
+    "end_time": 46.88
+  },
+  {
+    "shot_id": 23,
+    "start_frame": 1405,
+    "start_time": 46.88,
+    "end_frame": 1435,
+    "end_time": 47.881
+  },
+  {
+    "shot_id": 24,
+    "start_frame": 1435,
+    "start_time": 47.881,
+    "end_frame": 1486,
+    "end_time": 49.583
+  },
+  {
+    "shot_id": 25,
+    "start_frame": 1486,
+    "start_time": 49.583,
+    "end_frame": 1525,
+    "end_time": 50.884
+  },
+  {
+    "shot_id": 26,
+    "start_frame": 1525,
+    "start_time": 50.884,
+    "end_frame": 1557,
+    "end_time": 51.952
+  },
+  {
+    "shot_id": 27,
+    "start_frame": 1557,
+    "start_time": 51.952,
+    "end_frame": 1644,
+    "end_time": 54.855
+  },
+  {
+    "shot_id": 28,
+    "start_frame": 1644,
+    "start_time": 54.855,
+    "end_frame": 1690,
+    "end_time": 56.39
+  },
+  {
+    "shot_id": 29,
+    "start_frame": 1690,
+    "start_time": 56.39,
+    "end_frame": 1722,
+    "end_time": 57.457
+  },
+  {
+    "shot_id": 30,
+    "start_frame": 1722,
+    "start_time": 57.457,
+    "end_frame": 1744,
+    "end_time": 58.191
+  },
+  {
+    "shot_id": 31,
+    "start_frame": 1744,
+    "start_time": 58.191,
+    "end_frame": 1777,
+    "end_time": 59.293
+  },
+  {
+    "shot_id": 32,
+    "start_frame": 1777,
+    "start_time": 59.293,
+    "end_frame": 1820,
+    "end_time": 60.727
+  },
+  {
+    "shot_id": 33,
+    "start_frame": 1820,
+    "start_time": 60.727,
+    "end_frame": 1884,
+    "end_time": 62.863
+  },
+  {
+    "shot_id": 34,
+    "start_frame": 1884,
+    "start_time": 62.863,
+    "end_frame": 1935,
+    "end_time": 64.564
+  },
+  {
+    "shot_id": 35,
+    "start_frame": 1935,
+    "start_time": 64.564,
+    "end_frame": 2001,
+    "end_time": 66.767
+  },
+  {
+    "shot_id": 36,
+    "start_frame": 2001,
+    "start_time": 66.767,
+    "end_frame": 2098,
+    "end_time": 70.003
+  },
+  {
+    "shot_id": 37,
+    "start_frame": 2098,
+    "start_time": 70.003,
+    "end_frame": 2171,
+    "end_time": 72.439
+  },
+  {
+    "shot_id": 38,
+    "start_frame": 2171,
+    "start_time": 72.439,
+    "end_frame": 2217,
+    "end_time": 73.974
+  },
+  {
+    "shot_id": 39,
+    "start_frame": 2217,
+    "start_time": 73.974,
+    "end_frame": 2252,
+    "end_time": 75.142
+  },
+  {
+    "shot_id": 40,
+    "start_frame": 2252,
+    "start_time": 75.142,
+    "end_frame": 2304,
+    "end_time": 76.877
+  },
+  {
+    "shot_id": 41,
+    "start_frame": 2304,
+    "start_time": 76.877,
+    "end_frame": 2372,
+    "end_time": 79.146
+  },
+  {
+    "shot_id": 42,
+    "start_frame": 2372,
+    "start_time": 79.146,
+    "end_frame": 2426,
+    "end_time": 80.948
+  },
+  {
+    "shot_id": 43,
+    "start_frame": 2426,
+    "start_time": 80.948,
+    "end_frame": 2463,
+    "end_time": 82.182
+  },
+  {
+    "shot_id": 44,
+    "start_frame": 2463,
+    "start_time": 82.182,
+    "end_frame": 2556,
+    "end_time": 85.285
+  },
+  {
+    "shot_id": 45,
+    "start_frame": 2556,
+    "start_time": 85.285,
+    "end_frame": 2589,
+    "end_time": 86.386
+  },
+  {
+    "shot_id": 46,
+    "start_frame": 2589,
+    "start_time": 86.386,
+    "end_frame": 2636,
+    "end_time": 87.955
+  },
+  {
+    "shot_id": 47,
+    "start_frame": 2636,
+    "start_time": 87.955,
+    "end_frame": 2666,
+    "end_time": 88.956
+  },
+  {
+    "shot_id": 48,
+    "start_frame": 2666,
+    "start_time": 88.956,
+    "end_frame": 2732,
+    "end_time": 91.158
+  },
+  {
+    "shot_id": 49,
+    "start_frame": 2732,
+    "start_time": 91.158,
+    "end_frame": 2752,
+    "end_time": 91.825
+  },
+  {
+    "shot_id": 50,
+    "start_frame": 2752,
+    "start_time": 91.825,
+    "end_frame": 2897,
+    "end_time": 96.663
+  },
+  {
+    "shot_id": 51,
+    "start_frame": 2897,
+    "start_time": 96.663,
+    "end_frame": 2941,
+    "end_time": 98.131
+  },
+  {
+    "shot_id": 52,
+    "start_frame": 2941,
+    "start_time": 98.131,
+    "end_frame": 2977,
+    "end_time": 99.333
+  },
+  {
+    "shot_id": 53,
+    "start_frame": 2977,
+    "start_time": 99.333,
+    "end_frame": 3049,
+    "end_time": 101.735
+  },
+  {
+    "shot_id": 54,
+    "start_frame": 3049,
+    "start_time": 101.735,
+    "end_frame": 3085,
+    "end_time": 102.936
+  },
+  {
+    "shot_id": 55,
+    "start_frame": 3085,
+    "start_time": 102.936,
+    "end_frame": 3133,
+    "end_time": 104.538
+  },
+  {
+    "shot_id": 56,
+    "start_frame": 3133,
+    "start_time": 104.538,
+    "end_frame": 3151,
+    "end_time": 105.138
+  },
+  {
+    "shot_id": 57,
+    "start_frame": 3151,
+    "start_time": 105.138,
+    "end_frame": 3197,
+    "end_time": 106.673
+  },
+  {
+    "shot_id": 58,
+    "start_frame": 3197,
+    "start_time": 106.673,
+    "end_frame": 3235,
+    "end_time": 107.941
+  },
+  {
+    "shot_id": 59,
+    "start_frame": 3235,
+    "start_time": 107.941,
+    "end_frame": 3293,
+    "end_time": 109.876
+  },
+  {
+    "shot_id": 60,
+    "start_frame": 3293,
+    "start_time": 109.876,
+    "end_frame": 3329,
+    "end_time": 111.078
+  },
+  {
+    "shot_id": 61,
+    "start_frame": 3329,
+    "start_time": 111.078,
+    "end_frame": 3418,
+    "end_time": 114.047
+  },
+  {
+    "shot_id": 62,
+    "start_frame": 3418,
+    "start_time": 114.047,
+    "end_frame": 3477,
+    "end_time": 116.016
+  },
+  {
+    "shot_id": 63,
+    "start_frame": 3477,
+    "start_time": 116.016,
+    "end_frame": 3633,
+    "end_time": 121.221
+  },
+  {
+    "shot_id": 64,
+    "start_frame": 3633,
+    "start_time": 121.221,
+    "end_frame": 3717,
+    "end_time": 124.024
+  },
+  {
+    "shot_id": 65,
+    "start_frame": 3717,
+    "start_time": 124.024,
+    "end_frame": 3768,
+    "end_time": 125.726
+  },
+  {
+    "shot_id": 66,
+    "start_frame": 3768,
+    "start_time": 125.726,
+    "end_frame": 4050,
+    "end_time": 135.135
+  },
+  {
+    "shot_id": 67,
+    "start_frame": 4050,
+    "start_time": 135.135,
+    "end_frame": 4084,
+    "end_time": 136.269
+  },
+  {
+    "shot_id": 68,
+    "start_frame": 4084,
+    "start_time": 136.269,
+    "end_frame": 4143,
+    "end_time": 138.238
+  },
+  {
+    "shot_id": 69,
+    "start_frame": 4143,
+    "start_time": 138.238,
+    "end_frame": 4176,
+    "end_time": 139.339
+  },
+  {
+    "shot_id": 70,
+    "start_frame": 4176,
+    "start_time": 139.339,
+    "end_frame": 4200,
+    "end_time": 140.14
+  },
+  {
+    "shot_id": 71,
+    "start_frame": 4200,
+    "start_time": 140.14,
+    "end_frame": 4252,
+    "end_time": 141.875
+  },
+  {
+    "shot_id": 72,
+    "start_frame": 4252,
+    "start_time": 141.875,
+    "end_frame": 4294,
+    "end_time": 143.276
+  },
+  {
+    "shot_id": 73,
+    "start_frame": 4294,
+    "start_time": 143.276,
+    "end_frame": 4311,
+    "end_time": 143.844
+  },
+  {
+    "shot_id": 74,
+    "start_frame": 4311,
+    "start_time": 143.844,
+    "end_frame": 4355,
+    "end_time": 145.312
+  },
+  {
+    "shot_id": 75,
+    "start_frame": 4355,
+    "start_time": 145.312,
+    "end_frame": 4372,
+    "end_time": 145.879
+  },
+  {
+    "shot_id": 76,
+    "start_frame": 4372,
+    "start_time": 145.879,
+    "end_frame": 4426,
+    "end_time": 147.681
+  },
+  {
+    "shot_id": 77,
+    "start_frame": 4426,
+    "start_time": 147.681,
+    "end_frame": 4579,
+    "end_time": 152.786
+  },
+  {
+    "shot_id": 78,
+    "start_frame": 4579,
+    "start_time": 152.786,
+    "end_frame": 4666,
+    "end_time": 155.689
+  },
+  {
+    "shot_id": 79,
+    "start_frame": 4666,
+    "start_time": 155.689,
+    "end_frame": 4855,
+    "end_time": 161.995
+  },
+  {
+    "shot_id": 80,
+    "start_frame": 4855,
+    "start_time": 161.995,
+    "end_frame": 4925,
+    "end_time": 164.331
+  },
+  {
+    "shot_id": 81,
+    "start_frame": 4925,
+    "start_time": 164.331,
+    "end_frame": 4956,
+    "end_time": 165.365
+  },
+  {
+    "shot_id": 82,
+    "start_frame": 4956,
+    "start_time": 165.365,
+    "end_frame": 5011,
+    "end_time": 167.2
+  },
+  {
+    "shot_id": 83,
+    "start_frame": 5011,
+    "start_time": 167.2,
+    "end_frame": 5079,
+    "end_time": 169.469
+  },
+  {
+    "shot_id": 84,
+    "start_frame": 5079,
+    "start_time": 169.469,
+    "end_frame": 5160,
+    "end_time": 172.172
+  },
+  {
+    "shot_id": 85,
+    "start_frame": 5160,
+    "start_time": 172.172,
+    "end_frame": 5218,
+    "end_time": 174.107
+  },
+  {
+    "shot_id": 86,
+    "start_frame": 5218,
+    "start_time": 174.107,
+    "end_frame": 5342,
+    "end_time": 178.245
+  },
+  {
+    "shot_id": 87,
+    "start_frame": 5342,
+    "start_time": 178.245,
+    "end_frame": 5376,
+    "end_time": 179.379
+  },
+  {
+    "shot_id": 88,
+    "start_frame": 5376,
+    "start_time": 179.379,
+    "end_frame": 5428,
+    "end_time": 181.114
+  },
+  {
+    "shot_id": 89,
+    "start_frame": 5428,
+    "start_time": 181.114,
+    "end_frame": 5528,
+    "end_time": 184.451
+  },
+  {
+    "shot_id": 90,
+    "start_frame": 5528,
+    "start_time": 184.451,
+    "end_frame": 5591,
+    "end_time": 186.553
+  },
+  {
+    "shot_id": 91,
+    "start_frame": 5591,
+    "start_time": 186.553,
+    "end_frame": 5768,
+    "end_time": 192.459
+  },
+  {
+    "shot_id": 92,
+    "start_frame": 5768,
+    "start_time": 192.459,
+    "end_frame": 5804,
+    "end_time": 193.66
+  },
+  {
+    "shot_id": 93,
+    "start_frame": 5804,
+    "start_time": 193.66,
+    "end_frame": 5828,
+    "end_time": 194.461
+  },
+  {
+    "shot_id": 94,
+    "start_frame": 5828,
+    "start_time": 194.461,
+    "end_frame": 5858,
+    "end_time": 195.462
+  },
+  {
+    "shot_id": 95,
+    "start_frame": 5858,
+    "start_time": 195.462,
+    "end_frame": 5886,
+    "end_time": 196.396
+  },
+  {
+    "shot_id": 96,
+    "start_frame": 5886,
+    "start_time": 196.396,
+    "end_frame": 5926,
+    "end_time": 197.731
+  },
+  {
+    "shot_id": 97,
+    "start_frame": 5926,
+    "start_time": 197.731,
+    "end_frame": 5953,
+    "end_time": 198.632
+  },
+  {
+    "shot_id": 98,
+    "start_frame": 5953,
+    "start_time": 198.632,
+    "end_frame": 5986,
+    "end_time": 199.733
+  },
+  {
+    "shot_id": 99,
+    "start_frame": 5986,
+    "start_time": 199.733,
+    "end_frame": 6076,
+    "end_time": 202.736
+  },
+  {
+    "shot_id": 100,
+    "start_frame": 6076,
+    "start_time": 202.736,
+    "end_frame": 6111,
+    "end_time": 203.904
+  },
+  {
+    "shot_id": 101,
+    "start_frame": 6111,
+    "start_time": 203.904,
+    "end_frame": 6159,
+    "end_time": 205.505
+  },
+  {
+    "shot_id": 102,
+    "start_frame": 6159,
+    "start_time": 205.505,
+    "end_frame": 6225,
+    "end_time": 207.708
+  },
+  {
+    "shot_id": 103,
+    "start_frame": 6225,
+    "start_time": 207.708,
+    "end_frame": 6279,
+    "end_time": 209.509
+  },
+  {
+    "shot_id": 104,
+    "start_frame": 6279,
+    "start_time": 209.509,
+    "end_frame": 6373,
+    "end_time": 212.646
+  },
+  {
+    "shot_id": 105,
+    "start_frame": 6373,
+    "start_time": 212.646,
+    "end_frame": 6407,
+    "end_time": 213.78
+  },
+  {
+    "shot_id": 106,
+    "start_frame": 6407,
+    "start_time": 213.78,
+    "end_frame": 6422,
+    "end_time": 214.281
+  },
+  {
+    "shot_id": 107,
+    "start_frame": 6422,
+    "start_time": 214.281,
+    "end_frame": 6459,
+    "end_time": 215.515
+  },
+  {
+    "shot_id": 108,
+    "start_frame": 6459,
+    "start_time": 215.515,
+    "end_frame": 6537,
+    "end_time": 218.118
+  },
+  {
+    "shot_id": 109,
+    "start_frame": 6537,
+    "start_time": 218.118,
+    "end_frame": 6569,
+    "end_time": 219.186
+  },
+  {
+    "shot_id": 110,
+    "start_frame": 6569,
+    "start_time": 219.186,
+    "end_frame": 6602,
+    "end_time": 220.287
+  },
+  {
+    "shot_id": 111,
+    "start_frame": 6602,
+    "start_time": 220.287,
+    "end_frame": 6623,
+    "end_time": 220.987
+  },
+  {
+    "shot_id": 112,
+    "start_frame": 6623,
+    "start_time": 220.987,
+    "end_frame": 6654,
+    "end_time": 222.022
+  },
+  {
+    "shot_id": 113,
+    "start_frame": 6654,
+    "start_time": 222.022,
+    "end_frame": 6790,
+    "end_time": 226.56
+  },
+  {
+    "shot_id": 114,
+    "start_frame": 6790,
+    "start_time": 226.56,
+    "end_frame": 6827,
+    "end_time": 227.794
+  },
+  {
+    "shot_id": 115,
+    "start_frame": 6827,
+    "start_time": 227.794,
+    "end_frame": 6916,
+    "end_time": 230.764
+  },
+  {
+    "shot_id": 116,
+    "start_frame": 6916,
+    "start_time": 230.764,
+    "end_frame": 6948,
+    "end_time": 231.832
+  },
+  {
+    "shot_id": 117,
+    "start_frame": 6948,
+    "start_time": 231.832,
+    "end_frame": 6983,
+    "end_time": 232.999
+  },
+  {
+    "shot_id": 118,
+    "start_frame": 6983,
+    "start_time": 232.999,
+    "end_frame": 7139,
+    "end_time": 238.205
+  },
+  {
+    "shot_id": 119,
+    "start_frame": 7139,
+    "start_time": 238.205,
+    "end_frame": 7175,
+    "end_time": 239.406
+  },
+  {
+    "shot_id": 120,
+    "start_frame": 7175,
+    "start_time": 239.406,
+    "end_frame": 7192,
+    "end_time": 239.973
+  },
+  {
+    "shot_id": 121,
+    "start_frame": 7192,
+    "start_time": 239.973,
+    "end_frame": 7296,
+    "end_time": 243.443
+  },
+  {
+    "shot_id": 122,
+    "start_frame": 7296,
+    "start_time": 243.443,
+    "end_frame": 7344,
+    "end_time": 245.045
+  },
+  {
+    "shot_id": 123,
+    "start_frame": 7344,
+    "start_time": 245.045,
+    "end_frame": 7401,
+    "end_time": 246.947
+  },
+  {
+    "shot_id": 124,
+    "start_frame": 7401,
+    "start_time": 246.947,
+    "end_frame": 7463,
+    "end_time": 249.015
+  },
+  {
+    "shot_id": 125,
+    "start_frame": 7463,
+    "start_time": 249.015,
+    "end_frame": 7527,
+    "end_time": 251.151
+  },
+  {
+    "shot_id": 126,
+    "start_frame": 7527,
+    "start_time": 251.151,
+    "end_frame": 7585,
+    "end_time": 253.086
+  },
+  {
+    "shot_id": 127,
+    "start_frame": 7585,
+    "start_time": 253.086,
+    "end_frame": 7648,
+    "end_time": 255.188
+  },
+  {
+    "shot_id": 128,
+    "start_frame": 7648,
+    "start_time": 255.188,
+    "end_frame": 7681,
+    "end_time": 256.289
+  },
+  {
+    "shot_id": 129,
+    "start_frame": 7681,
+    "start_time": 256.289,
+    "end_frame": 7703,
+    "end_time": 257.023
+  },
+  {
+    "shot_id": 130,
+    "start_frame": 7703,
+    "start_time": 257.023,
+    "end_frame": 7731,
+    "end_time": 257.958
+  },
+  {
+    "shot_id": 131,
+    "start_frame": 7731,
+    "start_time": 257.958,
+    "end_frame": 7770,
+    "end_time": 259.259
+  },
+  {
+    "shot_id": 132,
+    "start_frame": 7770,
+    "start_time": 259.259,
+    "end_frame": 7830,
+    "end_time": 261.261
+  },
+  {
+    "shot_id": 133,
+    "start_frame": 7830,
+    "start_time": 261.261,
+    "end_frame": 7873,
+    "end_time": 262.696
+  },
+  {
+    "shot_id": 134,
+    "start_frame": 7873,
+    "start_time": 262.696,
+    "end_frame": 7910,
+    "end_time": 263.93
+  },
+  {
+    "shot_id": 135,
+    "start_frame": 7910,
+    "start_time": 263.93,
+    "end_frame": 7934,
+    "end_time": 264.731
+  },
+  {
+    "shot_id": 136,
+    "start_frame": 7934,
+    "start_time": 264.731,
+    "end_frame": 7974,
+    "end_time": 266.066
+  },
+  {
+    "shot_id": 137,
+    "start_frame": 7974,
+    "start_time": 266.066,
+    "end_frame": 8150,
+    "end_time": 271.938
+  },
+  {
+    "shot_id": 138,
+    "start_frame": 8150,
+    "start_time": 271.938,
+    "end_frame": 8196,
+    "end_time": 273.473
+  },
+  {
+    "shot_id": 139,
+    "start_frame": 8196,
+    "start_time": 273.473,
+    "end_frame": 8227,
+    "end_time": 274.508
+  },
+  {
+    "shot_id": 140,
+    "start_frame": 8227,
+    "start_time": 274.508,
+    "end_frame": 8255,
+    "end_time": 275.442
+  },
+  {
+    "shot_id": 141,
+    "start_frame": 8255,
+    "start_time": 275.442,
+    "end_frame": 8338,
+    "end_time": 278.211
+  },
+  {
+    "shot_id": 142,
+    "start_frame": 8338,
+    "start_time": 278.211,
+    "end_frame": 8385,
+    "end_time": 279.779
+  },
+  {
+    "shot_id": 143,
+    "start_frame": 8385,
+    "start_time": 279.779,
+    "end_frame": 8425,
+    "end_time": 281.114
+  },
+  {
+    "shot_id": 144,
+    "start_frame": 8425,
+    "start_time": 281.114,
+    "end_frame": 8529,
+    "end_time": 284.584
+  },
+  {
+    "shot_id": 145,
+    "start_frame": 8529,
+    "start_time": 284.584,
+    "end_frame": 8580,
+    "end_time": 286.286
+  },
+  {
+    "shot_id": 146,
+    "start_frame": 8580,
+    "start_time": 286.286,
+    "end_frame": 8611,
+    "end_time": 287.32
+  },
+  {
+    "shot_id": 147,
+    "start_frame": 8611,
+    "start_time": 287.32,
+    "end_frame": 8735,
+    "end_time": 291.458
+  },
+  {
+    "shot_id": 148,
+    "start_frame": 8735,
+    "start_time": 291.458,
+    "end_frame": 8773,
+    "end_time": 292.726
+  },
+  {
+    "shot_id": 149,
+    "start_frame": 8773,
+    "start_time": 292.726,
+    "end_frame": 8861,
+    "end_time": 295.662
+  },
+  {
+    "shot_id": 150,
+    "start_frame": 8861,
+    "start_time": 295.662,
+    "end_frame": 8896,
+    "end_time": 296.83
+  },
+  {
+    "shot_id": 151,
+    "start_frame": 8896,
+    "start_time": 296.83,
+    "end_frame": 9022,
+    "end_time": 301.034
+  },
+  {
+    "shot_id": 152,
+    "start_frame": 9022,
+    "start_time": 301.034,
+    "end_frame": 9054,
+    "end_time": 302.102
+  },
+  {
+    "shot_id": 153,
+    "start_frame": 9054,
+    "start_time": 302.102,
+    "end_frame": 9084,
+    "end_time": 303.103
+  },
+  {
+    "shot_id": 154,
+    "start_frame": 9084,
+    "start_time": 303.103,
+    "end_frame": 9121,
+    "end_time": 304.337
+  },
+  {
+    "shot_id": 155,
+    "start_frame": 9121,
+    "start_time": 304.337,
+    "end_frame": 9195,
+    "end_time": 306.807
+  },
+  {
+    "shot_id": 156,
+    "start_frame": 9195,
+    "start_time": 306.807,
+    "end_frame": 9291,
+    "end_time": 310.01
+  },
+  {
+    "shot_id": 157,
+    "start_frame": 9291,
+    "start_time": 310.01,
+    "end_frame": 9447,
+    "end_time": 315.215
+  },
+  {
+    "shot_id": 158,
+    "start_frame": 9447,
+    "start_time": 315.215,
+    "end_frame": 9464,
+    "end_time": 315.782
+  },
+  {
+    "shot_id": 159,
+    "start_frame": 9464,
+    "start_time": 315.782,
+    "end_frame": 9500,
+    "end_time": 316.983
+  },
+  {
+    "shot_id": 160,
+    "start_frame": 9500,
+    "start_time": 316.983,
+    "end_frame": 9526,
+    "end_time": 317.851
+  },
+  {
+    "shot_id": 161,
+    "start_frame": 9526,
+    "start_time": 317.851,
+    "end_frame": 9586,
+    "end_time": 319.853
+  },
+  {
+    "shot_id": 162,
+    "start_frame": 9586,
+    "start_time": 319.853,
+    "end_frame": 9636,
+    "end_time": 321.521
+  },
+  {
+    "shot_id": 163,
+    "start_frame": 9636,
+    "start_time": 321.521,
+    "end_frame": 9719,
+    "end_time": 324.291
+  },
+  {
+    "shot_id": 164,
+    "start_frame": 9719,
+    "start_time": 324.291,
+    "end_frame": 9747,
+    "end_time": 325.225
+  },
+  {
+    "shot_id": 165,
+    "start_frame": 9747,
+    "start_time": 325.225,
+    "end_frame": 9782,
+    "end_time": 326.393
+  },
+  {
+    "shot_id": 166,
+    "start_frame": 9782,
+    "start_time": 326.393,
+    "end_frame": 9821,
+    "end_time": 327.694
+  },
+  {
+    "shot_id": 167,
+    "start_frame": 9821,
+    "start_time": 327.694,
+    "end_frame": 9845,
+    "end_time": 328.495
+  },
+  {
+    "shot_id": 168,
+    "start_frame": 9845,
+    "start_time": 328.495,
+    "end_frame": 9873,
+    "end_time": 329.429
+  },
+  {
+    "shot_id": 169,
+    "start_frame": 9873,
+    "start_time": 329.429,
+    "end_frame": 9903,
+    "end_time": 330.43
+  },
+  {
+    "shot_id": 170,
+    "start_frame": 9903,
+    "start_time": 330.43,
+    "end_frame": 9922,
+    "end_time": 331.064
+  },
+  {
+    "shot_id": 171,
+    "start_frame": 9922,
+    "start_time": 331.064,
+    "end_frame": 10006,
+    "end_time": 333.867
+  },
+  {
+    "shot_id": 172,
+    "start_frame": 10006,
+    "start_time": 333.867,
+    "end_frame": 10019,
+    "end_time": 334.301
+  },
+  {
+    "shot_id": 173,
+    "start_frame": 10019,
+    "start_time": 334.301,
+    "end_frame": 10059,
+    "end_time": 335.635
+  },
+  {
+    "shot_id": 174,
+    "start_frame": 10059,
+    "start_time": 335.635,
+    "end_frame": 10085,
+    "end_time": 336.503
+  },
+  {
+    "shot_id": 175,
+    "start_frame": 10085,
+    "start_time": 336.503,
+    "end_frame": 10113,
+    "end_time": 337.437
+  },
+  {
+    "shot_id": 176,
+    "start_frame": 10113,
+    "start_time": 337.437,
+    "end_frame": 10147,
+    "end_time": 338.572
+  },
+  {
+    "shot_id": 177,
+    "start_frame": 10147,
+    "start_time": 338.572,
+    "end_frame": 10200,
+    "end_time": 340.34
+  },
+  {
+    "shot_id": 178,
+    "start_frame": 10200,
+    "start_time": 340.34,
+    "end_frame": 10235,
+    "end_time": 341.508
+  },
+  {
+    "shot_id": 179,
+    "start_frame": 10235,
+    "start_time": 341.508,
+    "end_frame": 10275,
+    "end_time": 342.843
+  },
+  {
+    "shot_id": 180,
+    "start_frame": 10275,
+    "start_time": 342.843,
+    "end_frame": 10322,
+    "end_time": 344.411
+  },
+  {
+    "shot_id": 181,
+    "start_frame": 10322,
+    "start_time": 344.411,
+    "end_frame": 10352,
+    "end_time": 345.412
+  },
+  {
+    "shot_id": 182,
+    "start_frame": 10352,
+    "start_time": 345.412,
+    "end_frame": 10434,
+    "end_time": 348.148
+  },
+  {
+    "shot_id": 183,
+    "start_frame": 10434,
+    "start_time": 348.148,
+    "end_frame": 10488,
+    "end_time": 349.95
+  },
+  {
+    "shot_id": 184,
+    "start_frame": 10488,
+    "start_time": 349.95,
+    "end_frame": 10548,
+    "end_time": 351.952
+  },
+  {
+    "shot_id": 185,
+    "start_frame": 10548,
+    "start_time": 351.952,
+    "end_frame": 10581,
+    "end_time": 353.053
+  },
+  {
+    "shot_id": 186,
+    "start_frame": 10581,
+    "start_time": 353.053,
+    "end_frame": 10609,
+    "end_time": 353.987
+  },
+  {
+    "shot_id": 187,
+    "start_frame": 10609,
+    "start_time": 353.987,
+    "end_frame": 10637,
+    "end_time": 354.921
+  },
+  {
+    "shot_id": 188,
+    "start_frame": 10637,
+    "start_time": 354.921,
+    "end_frame": 10748,
+    "end_time": 358.625
+  },
+  {
+    "shot_id": 189,
+    "start_frame": 10748,
+    "start_time": 358.625,
+    "end_frame": 10819,
+    "end_time": 360.994
+  },
+  {
+    "shot_id": 190,
+    "start_frame": 10819,
+    "start_time": 360.994,
+    "end_frame": 10959,
+    "end_time": 365.665
+  },
+  {
+    "shot_id": 191,
+    "start_frame": 10959,
+    "start_time": 365.665,
+    "end_frame": 10987,
+    "end_time": 366.6
+  },
+  {
+    "shot_id": 192,
+    "start_frame": 10987,
+    "start_time": 366.6,
+    "end_frame": 11035,
+    "end_time": 368.201
+  },
+  {
+    "shot_id": 193,
+    "start_frame": 11035,
+    "start_time": 368.201,
+    "end_frame": 11067,
+    "end_time": 369.269
+  },
+  {
+    "shot_id": 194,
+    "start_frame": 11067,
+    "start_time": 369.269,
+    "end_frame": 11101,
+    "end_time": 370.403
+  },
+  {
+    "shot_id": 195,
+    "start_frame": 11101,
+    "start_time": 370.403,
+    "end_frame": 11124,
+    "end_time": 371.171
+  },
+  {
+    "shot_id": 196,
+    "start_frame": 11124,
+    "start_time": 371.171,
+    "end_frame": 11228,
+    "end_time": 374.641
+  },
+  {
+    "shot_id": 197,
+    "start_frame": 11228,
+    "start_time": 374.641,
+    "end_frame": 11262,
+    "end_time": 375.775
+  },
+  {
+    "shot_id": 198,
+    "start_frame": 11262,
+    "start_time": 375.775,
+    "end_frame": 11292,
+    "end_time": 376.776
+  },
+  {
+    "shot_id": 199,
+    "start_frame": 11292,
+    "start_time": 376.776,
+    "end_frame": 11340,
+    "end_time": 378.378
+  },
+  {
+    "shot_id": 200,
+    "start_frame": 11340,
+    "start_time": 378.378,
+    "end_frame": 11363,
+    "end_time": 379.145
+  },
+  {
+    "shot_id": 201,
+    "start_frame": 11363,
+    "start_time": 379.145,
+    "end_frame": 11403,
+    "end_time": 380.48
+  },
+  {
+    "shot_id": 202,
+    "start_frame": 11403,
+    "start_time": 380.48,
+    "end_frame": 11446,
+    "end_time": 381.915
+  },
+  {
+    "shot_id": 203,
+    "start_frame": 11446,
+    "start_time": 381.915,
+    "end_frame": 11508,
+    "end_time": 383.984
+  },
+  {
+    "shot_id": 204,
+    "start_frame": 11508,
+    "start_time": 383.984,
+    "end_frame": 11556,
+    "end_time": 385.585
+  },
+  {
+    "shot_id": 205,
+    "start_frame": 11556,
+    "start_time": 385.585,
+    "end_frame": 11597,
+    "end_time": 386.953
+  },
+  {
+    "shot_id": 206,
+    "start_frame": 11597,
+    "start_time": 386.953,
+    "end_frame": 11676,
+    "end_time": 389.589
+  },
+  {
+    "shot_id": 207,
+    "start_frame": 11676,
+    "start_time": 389.589,
+    "end_frame": 11711,
+    "end_time": 390.757
+  },
+  {
+    "shot_id": 208,
+    "start_frame": 11711,
+    "start_time": 390.757,
+    "end_frame": 11751,
+    "end_time": 392.092
+  },
+  {
+    "shot_id": 209,
+    "start_frame": 11751,
+    "start_time": 392.092,
+    "end_frame": 11798,
+    "end_time": 393.66
+  },
+  {
+    "shot_id": 210,
+    "start_frame": 11798,
+    "start_time": 393.66,
+    "end_frame": 11839,
+    "end_time": 395.028
+  },
+  {
+    "shot_id": 211,
+    "start_frame": 11839,
+    "start_time": 395.028,
+    "end_frame": 11865,
+    "end_time": 395.896
+  },
+  {
+    "shot_id": 212,
+    "start_frame": 11865,
+    "start_time": 395.896,
+    "end_frame": 12083,
+    "end_time": 403.169
+  },
+  {
+    "shot_id": 213,
+    "start_frame": 12083,
+    "start_time": 403.169,
+    "end_frame": 12106,
+    "end_time": 403.937
+  },
+  {
+    "shot_id": 214,
+    "start_frame": 12106,
+    "start_time": 403.937,
+    "end_frame": 12189,
+    "end_time": 406.706
+  },
+  {
+    "shot_id": 215,
+    "start_frame": 12189,
+    "start_time": 406.706,
+    "end_frame": 12228,
+    "end_time": 408.008
+  },
+  {
+    "shot_id": 216,
+    "start_frame": 12228,
+    "start_time": 408.008,
+    "end_frame": 12288,
+    "end_time": 410.01
+  },
+  {
+    "shot_id": 217,
+    "start_frame": 12288,
+    "start_time": 410.01,
+    "end_frame": 12332,
+    "end_time": 411.478
+  },
+  {
+    "shot_id": 218,
+    "start_frame": 12332,
+    "start_time": 411.478,
+    "end_frame": 12404,
+    "end_time": 413.88
+  },
+  {
+    "shot_id": 219,
+    "start_frame": 12404,
+    "start_time": 413.88,
+    "end_frame": 12465,
+    "end_time": 415.916
+  },
+  {
+    "shot_id": 220,
+    "start_frame": 12465,
+    "start_time": 415.916,
+    "end_frame": 12492,
+    "end_time": 416.816
+  },
+  {
+    "shot_id": 221,
+    "start_frame": 12492,
+    "start_time": 416.816,
+    "end_frame": 12534,
+    "end_time": 418.218
+  },
+  {
+    "shot_id": 222,
+    "start_frame": 12534,
+    "start_time": 418.218,
+    "end_frame": 12573,
+    "end_time": 419.519
+  },
+  {
+    "shot_id": 223,
+    "start_frame": 12573,
+    "start_time": 419.519,
+    "end_frame": 12603,
+    "end_time": 420.52
+  },
+  {
+    "shot_id": 224,
+    "start_frame": 12603,
+    "start_time": 420.52,
+    "end_frame": 12755,
+    "end_time": 425.592
+  },
+  {
+    "shot_id": 225,
+    "start_frame": 12755,
+    "start_time": 425.592,
+    "end_frame": 12808,
+    "end_time": 427.36
+  },
+  {
+    "shot_id": 226,
+    "start_frame": 12808,
+    "start_time": 427.36,
+    "end_frame": 12854,
+    "end_time": 428.895
+  },
+  {
+    "shot_id": 227,
+    "start_frame": 12854,
+    "start_time": 428.895,
+    "end_frame": 12912,
+    "end_time": 430.83
+  },
+  {
+    "shot_id": 228,
+    "start_frame": 12912,
+    "start_time": 430.83,
+    "end_frame": 12951,
+    "end_time": 432.132
+  },
+  {
+    "shot_id": 229,
+    "start_frame": 12951,
+    "start_time": 432.132,
+    "end_frame": 13013,
+    "end_time": 434.2
+  },
+  {
+    "shot_id": 230,
+    "start_frame": 13013,
+    "start_time": 434.2,
+    "end_frame": 13035,
+    "end_time": 434.935
+  },
+  {
+    "shot_id": 231,
+    "start_frame": 13035,
+    "start_time": 434.935,
+    "end_frame": 13072,
+    "end_time": 436.169
+  },
+  {
+    "shot_id": 232,
+    "start_frame": 13072,
+    "start_time": 436.169,
+    "end_frame": 13105,
+    "end_time": 437.27
+  },
+  {
+    "shot_id": 233,
+    "start_frame": 13105,
+    "start_time": 437.27,
+    "end_frame": 13226,
+    "end_time": 441.308
+  },
+  {
+    "shot_id": 234,
+    "start_frame": 13226,
+    "start_time": 441.308,
+    "end_frame": 13256,
+    "end_time": 442.309
+  },
+  {
+    "shot_id": 235,
+    "start_frame": 13256,
+    "start_time": 442.309,
+    "end_frame": 13348,
+    "end_time": 445.378
+  },
+  {
+    "shot_id": 236,
+    "start_frame": 13348,
+    "start_time": 445.378,
+    "end_frame": 13389,
+    "end_time": 446.746
+  },
+  {
+    "shot_id": 237,
+    "start_frame": 13389,
+    "start_time": 446.746,
+    "end_frame": 13441,
+    "end_time": 448.481
+  },
+  {
+    "shot_id": 238,
+    "start_frame": 13441,
+    "start_time": 448.481,
+    "end_frame": 13540,
+    "end_time": 451.785
+  },
+  {
+    "shot_id": 239,
+    "start_frame": 13540,
+    "start_time": 451.785,
+    "end_frame": 13662,
+    "end_time": 455.855
+  },
+  {
+    "shot_id": 240,
+    "start_frame": 13662,
+    "start_time": 455.855,
+    "end_frame": 13760,
+    "end_time": 459.125
+  },
+  {
+    "shot_id": 241,
+    "start_frame": 13760,
+    "start_time": 459.125,
+    "end_frame": 13781,
+    "end_time": 459.826
+  },
+  {
+    "shot_id": 242,
+    "start_frame": 13781,
+    "start_time": 459.826,
+    "end_frame": 13965,
+    "end_time": 465.966
+  },
+  {
+    "shot_id": 243,
+    "start_frame": 13965,
+    "start_time": 465.966,
+    "end_frame": 13983,
+    "end_time": 466.566
+  },
+  {
+    "shot_id": 244,
+    "start_frame": 13983,
+    "start_time": 466.566,
+    "end_frame": 14032,
+    "end_time": 468.201
+  },
+  {
+    "shot_id": 245,
+    "start_frame": 14032,
+    "start_time": 468.201,
+    "end_frame": 14080,
+    "end_time": 469.803
+  },
+  {
+    "shot_id": 246,
+    "start_frame": 14080,
+    "start_time": 469.803,
+    "end_frame": 14116,
+    "end_time": 471.004
+  },
+  {
+    "shot_id": 247,
+    "start_frame": 14116,
+    "start_time": 471.004,
+    "end_frame": 14135,
+    "end_time": 471.638
+  },
+  {
+    "shot_id": 248,
+    "start_frame": 14135,
+    "start_time": 471.638,
+    "end_frame": 14189,
+    "end_time": 473.44
+  },
+  {
+    "shot_id": 249,
+    "start_frame": 14189,
+    "start_time": 473.44,
+    "end_frame": 14222,
+    "end_time": 474.541
+  },
+  {
+    "shot_id": 250,
+    "start_frame": 14222,
+    "start_time": 474.541,
+    "end_frame": 14247,
+    "end_time": 475.375
+  },
+  {
+    "shot_id": 251,
+    "start_frame": 14247,
+    "start_time": 475.375,
+    "end_frame": 14290,
+    "end_time": 476.81
+  },
+  {
+    "shot_id": 252,
+    "start_frame": 14290,
+    "start_time": 476.81,
+    "end_frame": 14315,
+    "end_time": 477.644
+  },
+  {
+    "shot_id": 253,
+    "start_frame": 14315,
+    "start_time": 477.644,
+    "end_frame": 14378,
+    "end_time": 479.746
+  },
+  {
+    "shot_id": 254,
+    "start_frame": 14378,
+    "start_time": 479.746,
+    "end_frame": 14480,
+    "end_time": 483.149
+  },
+  {
+    "shot_id": 255,
+    "start_frame": 14480,
+    "start_time": 483.149,
+    "end_frame": 14515,
+    "end_time": 484.317
+  },
+  {
+    "shot_id": 256,
+    "start_frame": 14515,
+    "start_time": 484.317,
+    "end_frame": 14537,
+    "end_time": 485.051
+  },
+  {
+    "shot_id": 257,
+    "start_frame": 14537,
+    "start_time": 485.051,
+    "end_frame": 14556,
+    "end_time": 485.685
+  },
+  {
+    "shot_id": 258,
+    "start_frame": 14556,
+    "start_time": 485.685,
+    "end_frame": 14604,
+    "end_time": 487.287
+  },
+  {
+    "shot_id": 259,
+    "start_frame": 14604,
+    "start_time": 487.287,
+    "end_frame": 14637,
+    "end_time": 488.388
+  },
+  {
+    "shot_id": 260,
+    "start_frame": 14637,
+    "start_time": 488.388,
+    "end_frame": 14668,
+    "end_time": 489.422
+  },
+  {
+    "shot_id": 261,
+    "start_frame": 14668,
+    "start_time": 489.422,
+    "end_frame": 14717,
+    "end_time": 491.057
+  },
+  {
+    "shot_id": 262,
+    "start_frame": 14717,
+    "start_time": 491.057,
+    "end_frame": 14758,
+    "end_time": 492.425
+  },
+  {
+    "shot_id": 263,
+    "start_frame": 14758,
+    "start_time": 492.425,
+    "end_frame": 14789,
+    "end_time": 493.46
+  },
+  {
+    "shot_id": 264,
+    "start_frame": 14789,
+    "start_time": 493.46,
+    "end_frame": 14841,
+    "end_time": 495.195
+  },
+  {
+    "shot_id": 265,
+    "start_frame": 14841,
+    "start_time": 495.195,
+    "end_frame": 14973,
+    "end_time": 499.599
+  },
+  {
+    "shot_id": 266,
+    "start_frame": 14973,
+    "start_time": 499.599,
+    "end_frame": 15025,
+    "end_time": 501.334
+  },
+  {
+    "shot_id": 267,
+    "start_frame": 15025,
+    "start_time": 501.334,
+    "end_frame": 15086,
+    "end_time": 503.37
+  },
+  {
+    "shot_id": 268,
+    "start_frame": 15086,
+    "start_time": 503.37,
+    "end_frame": 15140,
+    "end_time": 505.171
+  },
+  {
+    "shot_id": 269,
+    "start_frame": 15140,
+    "start_time": 505.171,
+    "end_frame": 15196,
+    "end_time": 507.04
+  },
+  {
+    "shot_id": 270,
+    "start_frame": 15196,
+    "start_time": 507.04,
+    "end_frame": 15238,
+    "end_time": 508.441
+  },
+  {
+    "shot_id": 271,
+    "start_frame": 15238,
+    "start_time": 508.441,
+    "end_frame": 15359,
+    "end_time": 512.479
+  },
+  {
+    "shot_id": 272,
+    "start_frame": 15359,
+    "start_time": 512.479,
+    "end_frame": 15383,
+    "end_time": 513.279
+  },
+  {
+    "shot_id": 273,
+    "start_frame": 15383,
+    "start_time": 513.279,
+    "end_frame": 15406,
+    "end_time": 514.047
+  },
+  {
+    "shot_id": 274,
+    "start_frame": 15406,
+    "start_time": 514.047,
+    "end_frame": 15504,
+    "end_time": 517.317
+  },
+  {
+    "shot_id": 275,
+    "start_frame": 15504,
+    "start_time": 517.317,
+    "end_frame": 15547,
+    "end_time": 518.752
+  },
+  {
+    "shot_id": 276,
+    "start_frame": 15547,
+    "start_time": 518.752,
+    "end_frame": 15574,
+    "end_time": 519.652
+  },
+  {
+    "shot_id": 277,
+    "start_frame": 15574,
+    "start_time": 519.652,
+    "end_frame": 15630,
+    "end_time": 521.521
+  },
+  {
+    "shot_id": 278,
+    "start_frame": 15630,
+    "start_time": 521.521,
+    "end_frame": 15682,
+    "end_time": 523.256
+  },
+  {
+    "shot_id": 279,
+    "start_frame": 15682,
+    "start_time": 523.256,
+    "end_frame": 15733,
+    "end_time": 524.958
+  },
+  {
+    "shot_id": 280,
+    "start_frame": 15733,
+    "start_time": 524.958,
+    "end_frame": 15845,
+    "end_time": 528.695
+  },
+  {
+    "shot_id": 281,
+    "start_frame": 15845,
+    "start_time": 528.695,
+    "end_frame": 15953,
+    "end_time": 532.298
+  },
+  {
+    "shot_id": 282,
+    "start_frame": 15953,
+    "start_time": 532.298,
+    "end_frame": 16017,
+    "end_time": 534.434
+  },
+  {
+    "shot_id": 283,
+    "start_frame": 16017,
+    "start_time": 534.434,
+    "end_frame": 16108,
+    "end_time": 537.47
+  },
+  {
+    "shot_id": 284,
+    "start_frame": 16108,
+    "start_time": 537.47,
+    "end_frame": 16152,
+    "end_time": 538.938
+  },
+  {
+    "shot_id": 285,
+    "start_frame": 16152,
+    "start_time": 538.938,
+    "end_frame": 16222,
+    "end_time": 541.274
+  },
+  {
+    "shot_id": 286,
+    "start_frame": 16222,
+    "start_time": 541.274,
+    "end_frame": 16328,
+    "end_time": 544.811
+  },
+  {
+    "shot_id": 287,
+    "start_frame": 16328,
+    "start_time": 544.811,
+    "end_frame": 16385,
+    "end_time": 546.713
+  },
+  {
+    "shot_id": 288,
+    "start_frame": 16385,
+    "start_time": 546.713,
+    "end_frame": 16442,
+    "end_time": 548.615
+  },
+  {
+    "shot_id": 289,
+    "start_frame": 16442,
+    "start_time": 548.615,
+    "end_frame": 16469,
+    "end_time": 549.516
+  },
+  {
+    "shot_id": 290,
+    "start_frame": 16469,
+    "start_time": 549.516,
+    "end_frame": 16507,
+    "end_time": 550.784
+  },
+  {
+    "shot_id": 291,
+    "start_frame": 16507,
+    "start_time": 550.784,
+    "end_frame": 16546,
+    "end_time": 552.085
+  },
+  {
+    "shot_id": 292,
+    "start_frame": 16546,
+    "start_time": 552.085,
+    "end_frame": 16588,
+    "end_time": 553.486
+  },
+  {
+    "shot_id": 293,
+    "start_frame": 16588,
+    "start_time": 553.486,
+    "end_frame": 16645,
+    "end_time": 555.388
+  },
+  {
+    "shot_id": 294,
+    "start_frame": 16645,
+    "start_time": 555.388,
+    "end_frame": 16681,
+    "end_time": 556.589
+  },
+  {
+    "shot_id": 295,
+    "start_frame": 16681,
+    "start_time": 556.589,
+    "end_frame": 16732,
+    "end_time": 558.291
+  },
+  {
+    "shot_id": 296,
+    "start_frame": 16732,
+    "start_time": 558.291,
+    "end_frame": 16766,
+    "end_time": 559.426
+  },
+  {
+    "shot_id": 297,
+    "start_frame": 16766,
+    "start_time": 559.426,
+    "end_frame": 16814,
+    "end_time": 561.027
+  },
+  {
+    "shot_id": 298,
+    "start_frame": 16814,
+    "start_time": 561.027,
+    "end_frame": 16876,
+    "end_time": 563.096
+  },
+  {
+    "shot_id": 299,
+    "start_frame": 16876,
+    "start_time": 563.096,
+    "end_frame": 16917,
+    "end_time": 564.464
+  },
+  {
+    "shot_id": 300,
+    "start_frame": 16917,
+    "start_time": 564.464,
+    "end_frame": 16968,
+    "end_time": 566.166
+  },
+  {
+    "shot_id": 301,
+    "start_frame": 16968,
+    "start_time": 566.166,
+    "end_frame": 17010,
+    "end_time": 567.567
+  },
+  {
+    "shot_id": 302,
+    "start_frame": 17010,
+    "start_time": 567.567,
+    "end_frame": 17081,
+    "end_time": 569.936
+  },
+  {
+    "shot_id": 303,
+    "start_frame": 17081,
+    "start_time": 569.936,
+    "end_frame": 17141,
+    "end_time": 571.938
+  },
+  {
+    "shot_id": 304,
+    "start_frame": 17141,
+    "start_time": 571.938,
+    "end_frame": 17176,
+    "end_time": 573.106
+  },
+  {
+    "shot_id": 305,
+    "start_frame": 17176,
+    "start_time": 573.106,
+    "end_frame": 17281,
+    "end_time": 576.609
+  },
+  {
+    "shot_id": 306,
+    "start_frame": 17281,
+    "start_time": 576.609,
+    "end_frame": 17339,
+    "end_time": 578.545
+  },
+  {
+    "shot_id": 307,
+    "start_frame": 17339,
+    "start_time": 578.545,
+    "end_frame": 17400,
+    "end_time": 580.58
+  },
+  {
+    "shot_id": 308,
+    "start_frame": 17400,
+    "start_time": 580.58,
+    "end_frame": 17472,
+    "end_time": 582.982
+  },
+  {
+    "shot_id": 309,
+    "start_frame": 17472,
+    "start_time": 582.982,
+    "end_frame": 17502,
+    "end_time": 583.983
+  },
+  {
+    "shot_id": 310,
+    "start_frame": 17502,
+    "start_time": 583.983,
+    "end_frame": 17527,
+    "end_time": 584.818
+  },
+  {
+    "shot_id": 311,
+    "start_frame": 17527,
+    "start_time": 584.818,
+    "end_frame": 17542,
+    "end_time": 585.318
+  },
+  {
+    "shot_id": 312,
+    "start_frame": 17542,
+    "start_time": 585.318,
+    "end_frame": 17638,
+    "end_time": 588.521
+  },
+  {
+    "shot_id": 313,
+    "start_frame": 17638,
+    "start_time": 588.521,
+    "end_frame": 17668,
+    "end_time": 589.522
+  },
+  {
+    "shot_id": 314,
+    "start_frame": 17668,
+    "start_time": 589.522,
+    "end_frame": 17732,
+    "end_time": 591.658
+  },
+  {
+    "shot_id": 315,
+    "start_frame": 17732,
+    "start_time": 591.658,
+    "end_frame": 17763,
+    "end_time": 592.692
+  },
+  {
+    "shot_id": 316,
+    "start_frame": 17763,
+    "start_time": 592.692,
+    "end_frame": 17985,
+    "end_time": 600.1
+  },
+  {
+    "shot_id": 317,
+    "start_frame": 17985,
+    "start_time": 600.1,
+    "end_frame": 18085,
+    "end_time": 603.436
+  },
+  {
+    "shot_id": 318,
+    "start_frame": 18085,
+    "start_time": 603.436,
+    "end_frame": 18180,
+    "end_time": 606.606
+  },
+  {
+    "shot_id": 319,
+    "start_frame": 18180,
+    "start_time": 606.606,
+    "end_frame": 18267,
+    "end_time": 609.509
+  },
+  {
+    "shot_id": 320,
+    "start_frame": 18267,
+    "start_time": 609.509,
+    "end_frame": 18320,
+    "end_time": 611.277
+  },
+  {
+    "shot_id": 321,
+    "start_frame": 18320,
+    "start_time": 611.277,
+    "end_frame": 18408,
+    "end_time": 614.214
+  },
+  {
+    "shot_id": 322,
+    "start_frame": 18408,
+    "start_time": 614.214,
+    "end_frame": 18442,
+    "end_time": 615.348
+  },
+  {
+    "shot_id": 323,
+    "start_frame": 18442,
+    "start_time": 615.348,
+    "end_frame": 18479,
+    "end_time": 616.583
+  },
+  {
+    "shot_id": 324,
+    "start_frame": 18479,
+    "start_time": 616.583,
+    "end_frame": 18509,
+    "end_time": 617.584
+  },
+  {
+    "shot_id": 325,
+    "start_frame": 18509,
+    "start_time": 617.584,
+    "end_frame": 18542,
+    "end_time": 618.685
+  },
+  {
+    "shot_id": 326,
+    "start_frame": 18542,
+    "start_time": 618.685,
+    "end_frame": 18596,
+    "end_time": 620.487
+  },
+  {
+    "shot_id": 327,
+    "start_frame": 18596,
+    "start_time": 620.487,
+    "end_frame": 18666,
+    "end_time": 622.822
+  },
+  {
+    "shot_id": 328,
+    "start_frame": 18666,
+    "start_time": 622.822,
+    "end_frame": 18724,
+    "end_time": 624.757
+  },
+  {
+    "shot_id": 329,
+    "start_frame": 18724,
+    "start_time": 624.757,
+    "end_frame": 18790,
+    "end_time": 626.96
+  },
+  {
+    "shot_id": 330,
+    "start_frame": 18790,
+    "start_time": 626.96,
+    "end_frame": 18885,
+    "end_time": 630.13
+  },
+  {
+    "shot_id": 331,
+    "start_frame": 18885,
+    "start_time": 630.13,
+    "end_frame": 18935,
+    "end_time": 631.798
+  },
+  {
+    "shot_id": 332,
+    "start_frame": 18935,
+    "start_time": 631.798,
+    "end_frame": 18986,
+    "end_time": 633.5
+  },
+  {
+    "shot_id": 333,
+    "start_frame": 18986,
+    "start_time": 633.5,
+    "end_frame": 19050,
+    "end_time": 635.635
+  },
+  {
+    "shot_id": 334,
+    "start_frame": 19050,
+    "start_time": 635.635,
+    "end_frame": 19202,
+    "end_time": 640.707
+  },
+  {
+    "shot_id": 335,
+    "start_frame": 19202,
+    "start_time": 640.707,
+    "end_frame": 19241,
+    "end_time": 642.008
+  },
+  {
+    "shot_id": 336,
+    "start_frame": 19241,
+    "start_time": 642.008,
+    "end_frame": 19280,
+    "end_time": 643.309
+  },
+  {
+    "shot_id": 337,
+    "start_frame": 19280,
+    "start_time": 643.309,
+    "end_frame": 19363,
+    "end_time": 646.079
+  },
+  {
+    "shot_id": 338,
+    "start_frame": 19363,
+    "start_time": 646.079,
+    "end_frame": 19407,
+    "end_time": 647.547
+  },
+  {
+    "shot_id": 339,
+    "start_frame": 19407,
+    "start_time": 647.547,
+    "end_frame": 19472,
+    "end_time": 649.716
+  },
+  {
+    "shot_id": 340,
+    "start_frame": 19472,
+    "start_time": 649.716,
+    "end_frame": 19528,
+    "end_time": 651.584
+  },
+  {
+    "shot_id": 341,
+    "start_frame": 19528,
+    "start_time": 651.584,
+    "end_frame": 19550,
+    "end_time": 652.318
+  },
+  {
+    "shot_id": 342,
+    "start_frame": 19550,
+    "start_time": 652.318,
+    "end_frame": 19657,
+    "end_time": 655.889
+  },
+  {
+    "shot_id": 343,
+    "start_frame": 19657,
+    "start_time": 655.889,
+    "end_frame": 19709,
+    "end_time": 657.624
+  },
+  {
+    "shot_id": 344,
+    "start_frame": 19709,
+    "start_time": 657.624,
+    "end_frame": 19746,
+    "end_time": 658.858
+  },
+  {
+    "shot_id": 345,
+    "start_frame": 19746,
+    "start_time": 658.858,
+    "end_frame": 19778,
+    "end_time": 659.926
+  },
+  {
+    "shot_id": 346,
+    "start_frame": 19778,
+    "start_time": 659.926,
+    "end_frame": 19816,
+    "end_time": 661.194
+  },
+  {
+    "shot_id": 347,
+    "start_frame": 19816,
+    "start_time": 661.194,
+    "end_frame": 19863,
+    "end_time": 662.762
+  },
+  {
+    "shot_id": 348,
+    "start_frame": 19863,
+    "start_time": 662.762,
+    "end_frame": 19918,
+    "end_time": 664.597
+  },
+  {
+    "shot_id": 349,
+    "start_frame": 19918,
+    "start_time": 664.597,
+    "end_frame": 19956,
+    "end_time": 665.865
+  },
+  {
+    "shot_id": 350,
+    "start_frame": 19956,
+    "start_time": 665.865,
+    "end_frame": 20010,
+    "end_time": 667.667
+  },
+  {
+    "shot_id": 351,
+    "start_frame": 20010,
+    "start_time": 667.667,
+    "end_frame": 20084,
+    "end_time": 670.136
+  },
+  {
+    "shot_id": 352,
+    "start_frame": 20084,
+    "start_time": 670.136,
+    "end_frame": 20142,
+    "end_time": 672.071
+  },
+  {
+    "shot_id": 353,
+    "start_frame": 20142,
+    "start_time": 672.071,
+    "end_frame": 20176,
+    "end_time": 673.206
+  },
+  {
+    "shot_id": 354,
+    "start_frame": 20176,
+    "start_time": 673.206,
+    "end_frame": 20210,
+    "end_time": 674.34
+  },
+  {
+    "shot_id": 355,
+    "start_frame": 20210,
+    "start_time": 674.34,
+    "end_frame": 20241,
+    "end_time": 675.375
+  },
+  {
+    "shot_id": 356,
+    "start_frame": 20241,
+    "start_time": 675.375,
+    "end_frame": 20280,
+    "end_time": 676.676
+  },
+  {
+    "shot_id": 357,
+    "start_frame": 20280,
+    "start_time": 676.676,
+    "end_frame": 20310,
+    "end_time": 677.677
+  },
+  {
+    "shot_id": 358,
+    "start_frame": 20310,
+    "start_time": 677.677,
+    "end_frame": 20422,
+    "end_time": 681.414
+  },
+  {
+    "shot_id": 359,
+    "start_frame": 20422,
+    "start_time": 681.414,
+    "end_frame": 20508,
+    "end_time": 684.284
+  },
+  {
+    "shot_id": 360,
+    "start_frame": 20508,
+    "start_time": 684.284,
+    "end_frame": 20559,
+    "end_time": 685.985
+  },
+  {
+    "shot_id": 361,
+    "start_frame": 20559,
+    "start_time": 685.985,
+    "end_frame": 20595,
+    "end_time": 687.187
+  },
+  {
+    "shot_id": 362,
+    "start_frame": 20595,
+    "start_time": 687.187,
+    "end_frame": 20696,
+    "end_time": 690.557
+  },
+  {
+    "shot_id": 363,
+    "start_frame": 20696,
+    "start_time": 690.557,
+    "end_frame": 20731,
+    "end_time": 691.724
+  },
+  {
+    "shot_id": 364,
+    "start_frame": 20731,
+    "start_time": 691.724,
+    "end_frame": 20761,
+    "end_time": 692.725
+  },
+  {
+    "shot_id": 365,
+    "start_frame": 20761,
+    "start_time": 692.725,
+    "end_frame": 20876,
+    "end_time": 696.563
+  },
+  {
+    "shot_id": 366,
+    "start_frame": 20876,
+    "start_time": 696.563,
+    "end_frame": 20953,
+    "end_time": 699.132
+  },
+  {
+    "shot_id": 367,
+    "start_frame": 20953,
+    "start_time": 699.132,
+    "end_frame": 20978,
+    "end_time": 699.966
+  },
+  {
+    "shot_id": 368,
+    "start_frame": 20978,
+    "start_time": 699.966,
+    "end_frame": 21039,
+    "end_time": 702.001
+  },
+  {
+    "shot_id": 369,
+    "start_frame": 21039,
+    "start_time": 702.001,
+    "end_frame": 21133,
+    "end_time": 705.138
+  },
+  {
+    "shot_id": 370,
+    "start_frame": 21133,
+    "start_time": 705.138,
+    "end_frame": 21180,
+    "end_time": 706.706
+  },
+  {
+    "shot_id": 371,
+    "start_frame": 21180,
+    "start_time": 706.706,
+    "end_frame": 21254,
+    "end_time": 709.175
+  },
+  {
+    "shot_id": 372,
+    "start_frame": 21254,
+    "start_time": 709.175,
+    "end_frame": 21306,
+    "end_time": 710.91
+  },
+  {
+    "shot_id": 373,
+    "start_frame": 21306,
+    "start_time": 710.91,
+    "end_frame": 21342,
+    "end_time": 712.111
+  },
+  {
+    "shot_id": 374,
+    "start_frame": 21342,
+    "start_time": 712.111,
+    "end_frame": 21369,
+    "end_time": 713.012
+  },
+  {
+    "shot_id": 375,
+    "start_frame": 21369,
+    "start_time": 713.012,
+    "end_frame": 21437,
+    "end_time": 715.281
+  },
+  {
+    "shot_id": 376,
+    "start_frame": 21437,
+    "start_time": 715.281,
+    "end_frame": 21491,
+    "end_time": 717.083
+  },
+  {
+    "shot_id": 377,
+    "start_frame": 21491,
+    "start_time": 717.083,
+    "end_frame": 21591,
+    "end_time": 720.42
+  },
+  {
+    "shot_id": 378,
+    "start_frame": 21591,
+    "start_time": 720.42,
+    "end_frame": 21652,
+    "end_time": 722.455
+  },
+  {
+    "shot_id": 379,
+    "start_frame": 21652,
+    "start_time": 722.455,
+    "end_frame": 21673,
+    "end_time": 723.156
+  },
+  {
+    "shot_id": 380,
+    "start_frame": 21673,
+    "start_time": 723.156,
+    "end_frame": 21721,
+    "end_time": 724.757
+  },
+  {
+    "shot_id": 381,
+    "start_frame": 21721,
+    "start_time": 724.757,
+    "end_frame": 21834,
+    "end_time": 728.528
+  },
+  {
+    "shot_id": 382,
+    "start_frame": 21834,
+    "start_time": 728.528,
+    "end_frame": 21865,
+    "end_time": 729.562
+  },
+  {
+    "shot_id": 383,
+    "start_frame": 21865,
+    "start_time": 729.562,
+    "end_frame": 22172,
+    "end_time": 739.806
+  }
+]

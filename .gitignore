@@ -1,0 +1,31 @@
+# Output files (large, generated)
+output/**/*.wav
+output/**/*.npy
+output/lancedb/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Models (large files, download separately)
+models/coreml/*.zip
+
+# Temporary
+/tmp/
+# Large model files (download separately)
+models/*.onnx
+models/ecapa_tdnn.onnx
+output/aligned_crops/
+output/temp_crops/
+models/adaface_ir101.onnx.data
+models/adaface_ir50/
+models/*.safetensors
+models/*.safetensors
+models/adaface_ir50/
+models/*.onnx
+models/*.onnx.data
+models/coreml/*.zip
+datasets/avdiar/*.zip
+datasets/avdiar/Seq*/
+datasets/avdiar/AVDIAR_All.zip

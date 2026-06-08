@@ -1,0 +1,74 @@
+[
+  {
+    "metadataOutputVersion" : "3.0",
+    "shortDescription" : "pyannote segmentation-3.0: Speaker diarization. Input: 10s 16kHz mono. Output: [1, 589, 7] speaker logits.",
+    "outputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Float16",
+        "formattedType" : "MultiArray (Float16 1 × 589 × 7)",
+        "shortDescription" : "",
+        "shape" : "[1, 589, 7]",
+        "name" : "speaker_logits",
+        "type" : "MultiArray"
+      }
+    ],
+    "storagePrecision" : "Mixed (Float16, Float32)",
+    "modelParameters" : [
+
+    ],
+    "author" : "CoreML-Models",
+    "specificationVersion" : 7,
+    "license" : "MIT",
+    "mlProgramOperationTypeHistogram" : {
+      "Ios16.cast" : 2,
+      "Ios16.leakyRelu" : 5,
+      "Ios16.lstm" : 4,
+      "Ios16.softmax" : 1,
+      "Ios16.log" : 1,
+      "Transpose" : 2,
+      "Ios16.linear" : 3,
+      "Ios16.maxPool" : 3,
+      "Ios16.abs" : 1,
+      "Ios16.instanceNorm" : 4,
+      "Ios16.conv" : 3
+    },
+    "computePrecision" : "Mixed (Float16, Float32, Int32)",
+    "stateSchema" : [
+
+    ],
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "13.0",
+      "tvOS" : "16.0",
+      "visionOS" : "1.0",
+      "watchOS" : "9.0",
+      "iOS" : "16.0",
+      "macCatalyst" : "16.0"
+    },
+    "modelType" : {
+      "name" : "MLModelType_mlProgram"
+    },
+    "inputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Float16",
+        "formattedType" : "MultiArray (Float16 1 × 1 × 160000)",
+        "shortDescription" : "",
+        "shape" : "[1, 1, 160000]",
+        "name" : "audio",
+        "type" : "MultiArray"
+      }
+    ],
+    "userDefinedMetadata" : {
+      "com.github.apple.coremltools.conversion_date" : "2026-04-03",
+      "com.github.apple.coremltools.source" : "torch==2.11.0",
+      "com.github.apple.coremltools.version" : "9.0",
+      "com.github.apple.coremltools.source_dialect" : "TorchScript"
+    },
+    "generatedClassName" : "SpeakerSegmentation",
+    "method" : "predict"
+  }
+]

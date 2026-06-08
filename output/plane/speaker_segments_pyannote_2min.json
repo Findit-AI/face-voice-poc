@@ -1,0 +1,92 @@
+[
+  {
+    "speaker_id": "SPEAKER_01",
+    "start": 0.031,
+    "end": 15.691,
+    "duration_ms": 15660
+  },
+  {
+    "speaker_id": "SPEAKER_00",
+    "start": 6.123,
+    "end": 6.629,
+    "duration_ms": 506
+  },
+  {
+    "speaker_id": "SPEAKER_01",
+    "start": 16.72,
+    "end": 19.454,
+    "duration_ms": 2734
+  },
+  {
+    "speaker_id": "SPEAKER_01",
+    "start": 19.977,
+    "end": 31.267,
+    "duration_ms": 11289
+  },
+  {
+    "speaker_id": "SPEAKER_00",
+    "start": 25.36,
+    "end": 25.428,
+    "duration_ms": 67
+  },
+  {
+    "speaker_id": "SPEAKER_01",
+    "start": 31.317,
+    "end": 41.425,
+    "duration_ms": 10108
+  },
+  {
+    "speaker_id": "SPEAKER_00",
+    "start": 32.768,
+    "end": 34.591,
+    "duration_ms": 1822
+  },
+  {
+    "speaker_id": "SPEAKER_00",
+    "start": 41.341,
+    "end": 42.978,
+    "duration_ms": 1637
+  },
+  {
+    "speaker_id": "SPEAKER_01",
+    "start": 42.978,
+    "end": 45.475,
+    "duration_ms": 2497
+  },
+  {
+    "speaker_id": "SPEAKER_01",
+    "start": 46.184,
+    "end": 87.562,
+    "duration_ms": 41378
+  },
+  {
+    "speaker_id": "SPEAKER_00",
+    "start": 58.672,
+    "end": 58.992,
+    "duration_ms": 321
+  },
+  {
+    "speaker_id": "SPEAKER_00",
+    "start": 59.33,
+    "end": 59.38,
+    "duration_ms": 51
+  },
+  {
+    "speaker_id": "SPEAKER_00",
+    "start": 87.697,
+    "end": 92.945,
+    "duration_ms": 5248
+  },
+  {
+    "speaker_id": "SPEAKER_01",
+    "start": 92.827,
+    "end": 119.978,
+    "duration_ms": 27152
+  },
+  {
+    "speaker_id": "SPEAKER_00",
+    "start": 117.312,
+    "end": 118.308,
+    "duration_ms": 996
+  }
+]

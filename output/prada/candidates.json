@@ -1,0 +1,162 @@
+[
+  {
+    "candidate_id": 0,
+    "face_cluster_id": 0,
+    "speaker_id": "SPEAKER_01",
+    "segment_start": 22.373,
+    "segment_end": 32.228,
+    "segment_duration_ms": 9855,
+    "overlap_duration_ms": 655,
+    "visible_face_fraction": 0.066,
+    "face_track_ids": [
+      1
+    ],
+    "avg_face_confidence": 1.0,
+    "avg_face_size": 183.0,
+    "method": "single_face",
+    "status": "candidate",
+    "asd_score": null,
+    "asd_margin": null,
+    "asd_frames": null
+  },
+  {
+    "candidate_id": 1,
+    "face_cluster_id": 0,
+    "speaker_id": "SPEAKER_00",
+    "segment_start": 35.603,
+    "segment_end": 44.513,
+    "segment_duration_ms": 8910,
+    "overlap_duration_ms": 4129,
+    "visible_face_fraction": 0.463,
+    "face_track_ids": [
+      2
+    ],
+    "avg_face_confidence": 1.0,
+    "avg_face_size": 117.2,
+    "method": "single_face",
+    "status": "candidate",
+    "asd_score": null,
+    "asd_margin": null,
+    "asd_frames": null
+  },
+  {
+    "candidate_id": 2,
+    "face_cluster_id": 0,
+    "speaker_id": "SPEAKER_00",
+    "segment_start": 57.338,
+    "segment_end": 64.426,
+    "segment_duration_ms": 7088,
+    "overlap_duration_ms": 918,
+    "visible_face_fraction": 0.13,
+    "face_track_ids": [
+      3
+    ],
+    "avg_face_confidence": 1.0,
+    "avg_face_size": 81.3,
+    "method": "single_face",
+    "status": "candidate",
+    "asd_score": null,
+    "asd_margin": null,
+    "asd_frames": null
+  },
+  {
+    "candidate_id": 3,
+    "face_cluster_id": 0,
+    "speaker_id": "SPEAKER_00",
+    "segment_start": 81.503,
+    "segment_end": 89.502,
+    "segment_duration_ms": 7999,
+    "overlap_duration_ms": 1835,
+    "visible_face_fraction": 0.229,
+    "face_track_ids": [
+      4
+    ],
+    "avg_face_confidence": 1.0,
+    "avg_face_size": 84.8,
+    "method": "single_face",
+    "status": "candidate",
+    "asd_score": null,
+    "asd_margin": null,
+    "asd_frames": null
+  },
+  {
+    "candidate_id": 4,
+    "face_cluster_id": 0,
+    "speaker_id": "SPEAKER_00",
+    "segment_start": 90.937,
+    "segment_end": 100.353,
+    "segment_duration_ms": 9416,
+    "overlap_duration_ms": 2294,
+    "visible_face_fraction": 0.244,
+    "face_track_ids": [
+      5
+    ],
+    "avg_face_confidence": 1.0,
+    "avg_face_size": 85.7,
+    "method": "single_face",
+    "status": "candidate",
+    "asd_score": null,
+    "asd_margin": null,
+    "asd_frames": null
+  },
+  {
+    "candidate_id": 5,
+    "face_cluster_id": 0,
+    "speaker_id": "SPEAKER_01",
+    "segment_start": 107.322,
+    "segment_end": 112.267,
+    "segment_duration_ms": 4944,
+    "overlap_duration_ms": 30,
+    "visible_face_fraction": 0.006,
+    "face_track_ids": [
+      8
+    ],
+    "avg_face_confidence": 1.0,
+    "avg_face_size": 227.4,
+    "method": "single_face",
+    "status": "candidate",
+    "asd_score": null,
+    "asd_margin": null,
+    "asd_frames": null
+  },
+  {
+    "candidate_id": 6,
+    "face_cluster_id": 0,
+    "speaker_id": "SPEAKER_01",
+    "segment_start": 112.52,
+    "segment_end": 117.616,
+    "segment_duration_ms": 5096,
+    "overlap_duration_ms": 1552,
+    "visible_face_fraction": 0.305,
+    "face_track_ids": [
+      8
+    ],
+    "avg_face_confidence": 1.0,
+    "avg_face_size": 227.4,
+    "method": "single_face",
+    "status": "candidate",
+    "asd_score": null,
+    "asd_margin": null,
+    "asd_frames": null
+  },
+  {
+    "candidate_id": 7,
+    "face_cluster_id": 0,
+    "speaker_id": "SPEAKER_00",
+    "segment_start": 157.947,
+    "segment_end": 162.706,
+    "segment_duration_ms": 4759,
+    "overlap_duration_ms": 1835,
+    "visible_face_fraction": 0.386,
+    "face_track_ids": [
+      9
+    ],
+    "avg_face_confidence": 1.0,
+    "avg_face_size": 82.8,
+    "method": "single_face",
+    "status": "candidate",
+    "asd_score": null,
+    "asd_margin": null,
+    "asd_frames": null
+  }
+]
